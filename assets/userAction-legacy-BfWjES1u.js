@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Cm7eZHc3.js"],function(e,t){"use strict";var s;return{setters:[e=>{s=e.j}],execute:function(){e("u",s("userAction",{state:()=>({studyId:"",studyName:"",siteId:"",siteName:"",dctStudyId:""}),actions:{},persist:{key:"userAction",storage:sessionStorage}}))}}});

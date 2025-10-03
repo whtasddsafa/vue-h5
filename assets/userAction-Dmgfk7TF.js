@@ -1,0 +1,1 @@
+import{j as t}from"./index-BS8FVB4C.js";const s=t("userAction",{state:()=>({studyId:"",studyName:"",siteId:"",siteName:"",dctStudyId:""}),actions:{},persist:{key:"userAction",storage:sessionStorage}});export{s as u};
